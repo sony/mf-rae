@@ -1,6 +1,6 @@
 ## MeanFlow Transformers with Representation Autoencoders (RAE)<br><sub>Official PyTorch Implementation</sub>
 
-### [Paper](https://arxiv.org/abs/) 
+### [Paper](https://www.arxiv.org/abs/2511.13019) 
 
 
 This repository is based on: [**Diffusion Transformers with Representation Autoencoders**](https://arxiv.org/abs/2510.11690).
