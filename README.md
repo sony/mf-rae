@@ -3,7 +3,9 @@
 ### [Paper](https://www.arxiv.org/abs/2511.13019) 
 
 
-This repository is based on: [**Diffusion Transformers with Representation Autoencoders**](https://arxiv.org/abs/2510.11690).
+This repository is based on: 
+- [**Diffusion Transformers with Representation Autoencoders**](https://arxiv.org/abs/2510.11690).
+- and our previous work, CMT: [**Consistency Mid-Training**](https://github.com/sony/cmt).
 
 ## Environment
 
